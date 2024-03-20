@@ -16,6 +16,7 @@ def capture_menu():
     print("1 - Deixar em background a captura")
     print("2 - Deixar em x/s em captura")
     print("3 - Finalizar captura aberta atualmente")
+    print("4 - Sair")
     choice = raw_input("Escolha uma opcao: ")
     if choice == '1':
         capture_background()
