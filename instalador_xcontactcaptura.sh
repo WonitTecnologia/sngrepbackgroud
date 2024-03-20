@@ -23,6 +23,8 @@ def capture_menu():
         capture_timed()
     elif choice == '3':
         capture_kill()
+    elif choice == '4'
+        exit(0)
     else:
         print("Opcao invalida.")
 
