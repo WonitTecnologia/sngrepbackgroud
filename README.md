@@ -34,8 +34,6 @@ Este projeto contém scripts para configurar e gerenciar a captura de pacotes us
    ```bash
    xcontactcaptura
    ```
-2. **Menu de Captura
-
 ## O menu interativo apresenta as seguintes opções:
 - **Deixar em background a captura**
   - Inicia a captura em background.
