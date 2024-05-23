@@ -22,15 +22,15 @@ Este projeto contém scripts para configurar e gerenciar a captura de pacotes us
 
 ### Instruções de Instalação
 
-1. Salve o script de instalação (`install.sh`) em um arquivo.
-2. Execute o script de instalação com permissões de superusuário:
+1. **Salve o script de instalação (`install.sh`) em um arquivo.**
+2. **Execute o script de instalação com permissões de superusuário:**
    ```bash
    sudo bash install.sh
    ```
-3. Após a execução do script, o comando xcontactcaptura estará disponível para iniciar o script de captura.
+3. **Após a execução do script, o comando xcontactcaptura estará disponível para iniciar o script de captura.**
 
 ### Uso do Script de Captura
-1. **Iniciar o Script
+1. **Iniciar o Script**
    ```bash
    xcontactcaptura
    ```
